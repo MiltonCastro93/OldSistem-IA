@@ -1,4 +1,4 @@
-<h1 align="center">🎮 Ladrón Elegante — Proyecto Original (Versión 2022)</h1>
+<h1 align="center">🎮 Ladrón Elegante — Proyecto Test (Versión 2022)</h1>
 
 <p align="center">
   <i>Prototipo técnico enfocado en el desarrollo y testeo de una IA modular de sigilo</i>
@@ -67,27 +67,29 @@ El sistema de interfaces y la separación por componentes sensoriales demostraro
 
 ---
 
-<h3 align="left">📸 Capturas del Proyecto</h3>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="" width="300" style="border-radius:10px" alt="IA modular"/>
-      <p><b>IA modular en acción</b></p>
-    </td>
-    <td align="center">
-      <img src="" width="300" style="border-radius:10px" alt="Cono de visión"/>
-      <p><b>Prueba de cono de visión</b></p>
-    </td>
-  </tr>
-</table>
+<div align="center"> 
+  <table cellspacing="0" cellpadding="0"> 
+    <tr> <td valign="middle"> 
+      <img src="https://raw.githubusercontent.com/MiltonCastro93/hello-world/main/youtubeIcon.png" alt="YouTube Icon" width="100" /> 
+    </td> 
+      <td valign="middle" style="padding-left: 20px;"> 
+        <table cellspacing="0" cellpadding="5"> 
+          <tr> <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td> 
+            <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td> </tr> 
+          <tr> <td align="center"> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4"><b>El Ladrón Elegante</b></a> </td> 
+          </tr> 
+        </table> 
+      </td> 
+    </tr> 
+  </table> 
+</div>
 
 ---
 
 <h3 align="left">🔗 Repositorio </h3>
 <p align="center">
   <a href="https://github.com/MiltonCastro93/Estructura-IA_Status" target="_blank">
-    👉 Ver repositorio mas limpio.
+    👉 Ver repositorio del proyecto Original.
   </a>
 </p>
 
