@@ -1,4 +1,4 @@
-<h1 align="center">🕵️‍♂️ Ladrón Elegante — Proyecto Original (Versión 2022)</h1>
+<h1 align="center">🎮 Ladrón Elegante — Proyecto Original (Versión 2022)</h1>
 
 <p align="center">
   <i>Prototipo técnico enfocado en el desarrollo y testeo de una IA modular de sigilo</i>
