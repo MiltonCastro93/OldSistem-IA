@@ -75,7 +75,6 @@ El sistema de interfaces y la separación por componentes sensoriales demostraro
       <td valign="middle" style="padding-left: 20px;"> 
         <table cellspacing="0" cellpadding="5"> 
           <tr> <td align="center"> :zap: Proyecto en desarrollo (Patreon) </td> 
-            <td align="center"> :clapper: Playlists Generales [Unity & Unreal] </td> </tr> 
           <tr> <td align="center"> <a href="https://www.youtube.com/playlist?list=PL_82nVaL4agwx_hbE09cWLHEPAsUg4tA4"><b>El Ladrón Elegante</b></a> </td> 
           </tr> 
         </table> 
